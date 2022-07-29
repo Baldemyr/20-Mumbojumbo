@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/20-React-Portfolio/static/css/main.a4b86b25.css",
+    "main.js": "/20-React-Portfolio/static/js/main.20648919.js",
+    "static/media/Event-Finder.png": "/20-React-Portfolio/static/media/Event-Finder.922923a564a847fa2906.png",
+    "static/media/me.jpg": "/20-React-Portfolio/static/media/me.0c70669996f62fd142ba.jpg",
+    "static/media/Coming_Soon.png": "/20-React-Portfolio/static/media/Coming_Soon.0bbed84e038c12d7dec6.png",
+    "static/media/14tech.png": "/20-React-Portfolio/static/media/14tech.ede28ce5de8aff402afa.png",
+    "static/media/Greenify.png": "/20-React-Portfolio/static/media/Greenify.7d2ec118f166cc10cd60.png",
+    "static/media/blue_BG.png": "/20-React-Portfolio/static/media/blue_BG.5313f9fd9b39e31413f9.png",
+    "static/media/4-Code-Quiz.png": "/20-React-Portfolio/static/media/4-Code-Quiz.b1f6439d42095e9a04a5.png",
+    "static/media/cv.pdf": "/20-React-Portfolio/static/media/cv.f3c5bf7dae0baa3c6801.pdf",
+    "static/media/Day_Scheduler.png": "/20-React-Portfolio/static/media/Day_Scheduler.5b6223ac9f464e708f51.png",
+    "index.html": "/20-React-Portfolio/index.html",
+    "main.a4b86b25.css.map": "/20-React-Portfolio/static/css/main.a4b86b25.css.map",
+    "main.20648919.js.map": "/20-React-Portfolio/static/js/main.20648919.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a4b86b25.css",
+    "static/js/main.20648919.js"
+  ]
+}
